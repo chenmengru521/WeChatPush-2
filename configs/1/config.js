@@ -2,7 +2,7 @@ module.exports = {
 	// 微信公众号消息模板id
 	templateId: "y4V1r167vRbGdmgQuU4754AgjLurWcafLFU4p3N2ww0",
 	// 接受消息的用户
-	users: ["oNU-d51Z_jHCniWnDvSI9BXr_IG0"],
+	users: ["oNU-d5-PhBN4KgSi0XaVGny5IqXc"],
 
 	// 和风天气密钥
 	key: "cd88f6d962c945b18b56153aa9f27314",
